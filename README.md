@@ -2,4 +2,4 @@
 (1) Power BI 
 (2) Tableau 
 (3) Excel
- also having the data analysis projects by using programming language "Python with Jupyter Notebook" and SQL.
+ also having the data analysis projects by using programming language "Python with Jupyter Notebook" and "SQL".
